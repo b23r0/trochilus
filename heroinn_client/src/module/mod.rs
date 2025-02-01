@@ -1,3 +1,3 @@
 #[allow(non_snake_case)]
-pub mod Shell;
+pub mod shell;
 pub mod ftp;
